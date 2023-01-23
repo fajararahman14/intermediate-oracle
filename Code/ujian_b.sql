@@ -10,7 +10,7 @@ INSERT INTO HARGATOKO2 VALUES ('BUKU PROGRAM', 50000);
 
 SET SERVEROUTPUT ON
     ACCEPT i_NAMA prompt 'Masukkan Nama Anda : ';
-    'Vierza Vandifa'
+    'Nama Lo'
     ACCEPT i_JENIS_BARANG prompt 'Masukkan Jenis Barang (BUKU KOMIK/BUKU NOVEL/BUKU PROGRAM) : ';
     'BUKU KOMIK'
     ACCEPT i_JUMLAH prompt 'Masukkan Jumlah Barang : ';
